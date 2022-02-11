@@ -1,1 +1,51 @@
-dm1lc3M6Ly9leUpoWkdRaU9pSXhNeTQzTUM0ek5DNHhPVE1pTENKaGFXUWlPaUl4SWl3aWFHOXpkQ0k2SWlJc0ltbGtJam9pWmpnMVpEUmpaRGN0T1RjM01pMDBOV1V6TFdFeU1qY3RaV1JtTnpNeVpERXdNR1kySWl3aWJtVjBJam9pZDNNaUxDSndZWFJvSWpvaUlpd2ljRzl5ZENJNklqZ3dJaXdpY0hNaU9pTHBwcG5tdUs5aElpd2lkR3h6SWpvaUlpd2lkSGx3WlNJNkltaDBkSEFpTENKMklqb2lNaUo5CnZtZXNzOi8vZXlKaFpHUWlPaUl4TXk0eU1USXVPUzQyTlNJc0ltRnBaQ0k2SWpFaUxDSm9iM04wSWpvaUlpd2lhV1FpT2lKbU9EVmtOR05rTnkwNU56Y3lMVFExWlRNdFlUSXlOeTFsWkdZM016SmtNVEF3WmpZaUxDSnVaWFFpT2lKM2N5SXNJbkJoZEdnaU9pSWlMQ0p3YjNKMElqb2lPREFpTENKd2N5STZJdW1tbWVhNHIySWlMQ0owYkhNaU9pSWlMQ0owZVhCbElqb2lhSFIwY0NJc0luWWlPaUl5SW4wPQp2bWVzczovL2V5SmhaR1FpT2lJeE15NHlNRGt1T1RjdU1UUXlJaXdpWVdsa0lqb2lNU0lzSW1odmMzUWlPaUlpTENKcFpDSTZJbVk0TldRMFkyUTNMVGszTnpJdE5EVmxNeTFoTWpJM0xXVmtaamN6TW1ReE1EQm1OaUlzSW01bGRDSTZJbmR6SWl3aWNHRjBhQ0k2SWk4aUxDSndiM0owSWpvaU9EQTRNaUlzSW5Ceklqb2k2YWFaNXJpdll5SXNJblJzY3lJNklpSXNJblI1Y0dVaU9pSm9kSFJ3SWl3aWRpSTZJaklpZlE9PQp2bWVzczovL2V5SmhaR1FpT2lJeE15NDVOQzR3TGpJeU5DSXNJbUZwWkNJNklqRWlMQ0pvYjNOMElqb2lJaXdpYVdRaU9pSXdOak16T0dFNE1DMWtPVFl3TFRRME5EUXRZbUUxWkMxbVpUZzFaRFJpTjJZNE1XWWlMQ0p1WlhRaU9pSjNjeUlzSW5CaGRHZ2lPaUlpTENKd2IzSjBJam9pT0RBaUxDSndjeUk2SXVtbW1lYTRyMlFpTENKelkza2lPaUpoZFhSdklpd2ljMjVwSWpvaUlpd2lkR3h6SWpvaUlpd2lkSGx3WlNJNklpSXNJbllpT2lJeUluMD0Kdm1lc3M6Ly9leUpoWkdRaU9pSXhNakF1TWpBNUxqVXpMalkzSWl3aVlXbGtJam9pTmpRaUxDSm9iM04wSWpvaUlpd2lhV1FpT2lKaU5qbGlNMkl6Tnkxa01HTm1MVFEyTmpBdFlqTTNPUzFpTURabE5UaGlaR014TlRNaUxDSnVaWFFpT2lKMFkzQWlMQ0p3WVhSb0lqb2lMeUlzSW5CdmNuUWlPaUkxTXpBeU1TSXNJbkJ6SWpvaTVadTk1WWFGNloyZU9ERG5xNjhpTENKMGJITWlPaUlpTENKMGVYQmxJam9pYUhSMGNDSXNJbllpT2lJeUluMD0Kdm1lc3M6Ly9leUpoWkdRaU9pSXhMakV4Tnk0eU55NDJOU0lzSW1GcFpDSTZJakFpTENKb2IzTjBJam9pY0hWc2JDNW1jbVZsTG5acFpHVnZMakV3TURFd0xtTnZiU0lzSW1sa0lqb2lObUpqT0RGbE4ySXRZelJoTWkwek1ERTJMVGcyTm1RdFpEVTBOakZsWkRZd05qSXlJaXdpYm1WMElqb2lkM01pTENKd1lYUm9Jam9pTDIxcGEzVnRhV3QxYldrL1pXUmNkVEF3TTJReU1EUTRJaXdpY0c5eWRDSTZJamd3SWl3aWNITWlPaUxsbTczbGhvWG11TGptaUk4aUxDSnpZM2tpT2lKaGRYUnZJaXdpYzI1cElqb2lJaXdpZEd4eklqb2lJaXdpZEhsd1pTSTZJaUlzSW5ZaU9pSXlJbjA9CnZtZXNzOi8vZXlKaFpHUWlPaUl5TWpJdU1UZzJMakV6T1M0eE1ETWlMQ0poYVdRaU9pSXdJaXdpYUc5emRDSTZJbkIxYkd3dVpuSmxaUzUyYVdSbGJ5NHhNREF4TUM1amIyMGlMQ0pwWkNJNklqWmlZemd4WlRkaUxXTTBZVEl0TXpBeE5pMDROalprTFdRMU5EWXhaV1EyTURZeU1pSXNJbTVsZENJNkluZHpJaXdpY0dGMGFDSTZJaTl0YVd0MWJXbHJkVzFwUDJWa1hIVXdNRE5rTWpBME9DSXNJbkJ2Y25RaU9pSTRNQ0lzSW5Ceklqb2k1WnU5NVlhRjZhdVk2WUNmSURJaUxDSnpZM2tpT2lKaGRYUnZJaXdpYzI1cElqb2lJaXdpZEd4eklqb2lJaXdpZEhsd1pTSTZJaUlzSW5ZaU9pSXlJbjA9CnZtZXNzOi8vZXlKaFpHUWlPaUl4TVRFdU1qVXdMakl6Tmk0MU5TSXNJbUZwWkNJNklqSWlMQ0pvYjNOMElqb2ljSFZzYkM1bWNtVmxMblpwWkdWdkxqRXdNREV3TG1OdmJTSXNJbWxrSWpvaU5tSmpPREZsTjJJdFl6UmhNaTB6TURFMkxUZzJObVF0WkRVME5qRmxaRFl3TmpJeUlpd2libVYwSWpvaWQzTWlMQ0p3WVhSb0lqb2lMMjFwYTNWdGFXdDFiV2svWldSY2RUQXdNMlF5TURRNElpd2ljRzl5ZENJNklqZ3dJaXdpY0hNaU9pTGxqN0RtdWI3cHE1anBnSjhpTENKelkza2lPaUpoZFhSdklpd2ljMjVwSWpvaUlpd2lkR3h6SWpvaUlpd2lkSGx3WlNJNklpSXNJbllpT2lJeUluMD0Kdm1lc3M6Ly9leUpoWkdRaU9pSXhNemt1TVRZeUxqZ3dMakV4TlNJc0ltRnBaQ0k2SWpJaUxDSm9iM04wSWpvaWNIVnNiQzVtY21WbExuWnBaR1Z2TGpFd01ERXdMbU52YlNJc0ltbGtJam9pTm1Kak9ERmxOMkl0WXpSaE1pMHpNREUyTFRnMk5tUXRaRFUwTmpGbFpEWXdOakl5SWl3aWJtVjBJam9pZDNNaUxDSndZWFJvSWpvaUwyMXBhM1Z0YVd0MWJXay9aV1JjZFRBd00yUXlNRFE0SWl3aWNHOXlkQ0k2SWpnd0lpd2ljSE1pT2lMbWw2WG1uS3pwcTVqcGdKOGlMQ0p6WTNraU9pSmhkWFJ2SWl3aWMyNXBJam9pSWl3aWRHeHpJam9pSWl3aWRIbHdaU0k2SWlJc0luWWlPaUl5SW4wPQp2bWVzczovL2V5SmhaR1FpT2lJMU1pNDJPUzQwTnk0ME1TSXNJbUZwWkNJNklqQWlMQ0pvYjNOMElqb2ljSFZzYkM1bWNtVmxMblpwWkdWdkxqRXdNREV3TG1OdmJTSXNJbWxrSWpvaU5tSmpPREZsTjJJdFl6UmhNaTB6TURFMkxUZzJObVF0WkRVME5qRmxaRFl3TmpJeUlpd2libVYwSWpvaWQzTWlMQ0p3WVhSb0lqb2lMMjFwYTNWdGFXdDFiV2svWldSY2RUQXdNMlF5TURRNElpd2ljRzl5ZENJNklqZ3dJaXdpY0hNaU9pTG52bzdsbTczcHE1anBnSjhpTENKelkza2lPaUpoZFhSdklpd2ljMjVwSWpvaUlpd2lkR3h6SWpvaUlpd2lkSGx3WlNJNklpSXNJbllpT2lJeUluMD0Kdm1lc3M6Ly9leUpoWkdRaU9pSXhOamd1TmpNdU1qRXlMakV4TmlJc0ltRnBaQ0k2SWpBaUxDSm9iM04wSWpvaWNIVnNiQzVtY21WbExuWnBaR1Z2TGpFd01ERXdMbU52YlNJc0ltbGtJam9pTm1Kak9ERmxOMkl0WXpSaE1pMHpNREUyTFRnMk5tUXRaRFUwTmpGbFpEWXdOakl5SWl3aWJtVjBJam9pZDNNaUxDSndZWFJvSWpvaUwyMXBhM1Z0YVd0MWJXay9aV1JjZFRBd00yUXlNRFE0SWl3aWNHOXlkQ0k2SWpnd0lpd2ljSE1pT2lMcHBwbm11Sy9wcTVqcGdKOGlMQ0p6WTNraU9pSmhkWFJ2SWl3aWMyNXBJam9pSWl3aWRHeHpJam9pSWl3aWRIbHdaU0k2SWlJc0luWWlPaUl5SW4wPQp2bWVzczovL2V5SmhaR1FpT2lJeE1ETXVNemt1TWpJekxqRXdPU0lzSW1GcFpDSTZJaklpTENKb2IzTjBJam9pY0hWc2JDNW1jbVZsTG5acFpHVnZMakV3TURFd0xtTnZiU0lzSW1sa0lqb2lObUpqT0RGbE4ySXRZelJoTWkwek1ERTJMVGcyTm1RdFpEVTBOakZsWkRZd05qSXlJaXdpYm1WMElqb2lkM01pTENKd1lYUm9Jam9pTDJsdVpHVjRJaXdpY0c5eWRDSTZJamd3SWl3aWNITWlPaUxsbTczbGhvWHBxNWpwZ0o4aUxDSnpZM2tpT2lKaGRYUnZJaXdpYzI1cElqb2lJaXdpZEd4eklqb2lJaXdpZEhsd1pTSTZJaUlzSW5ZaU9pSXlJbjA9CnZtZXNzOi8vZXlKaFpHUWlPaUpvZEhSd09pOHZlWGxxTGpVeVkyaDVaUzVqYmk4aUxDSmhhV1FpT2lJeUlpd2lhRzl6ZENJNklpSXNJbWxrSWpvaU9EZzRMamc0T0M0NE9EZ2lMQ0p1WlhRaU9pSjNjeUlzSW5CaGRHZ2lPaUl2SWl3aWNHOXlkQ0k2SWpVeU1ERXpNVFFpTENKd2N5STZJdWExZ2VtSGorV0pxZVM5bVRybWw2RHBtWkRtdFlIcGg0OGlMQ0owYkhNaU9pSWlMQ0owZVhCbElqb2libTl1WlNJc0luWWlPaUl5SW4wPQp2bWVzczovL2V5SmhaR1FpT2lKb2RIUndPaTh2ZVhscUxqVXlZMmg1WlM1amJpOGlMQ0poYVdRaU9pSXlJaXdpYUc5emRDSTZJaUlzSW1sa0lqb2lPRGc0TGpnNE9DNDRPRGdpTENKdVpYUWlPaUozY3lJc0luQmhkR2dpT2lJdklpd2ljRzl5ZENJNklqVXlNREV6TVRRaUxDSndjeUk2SXVhQnR1YUVqK1dJdCthMWdlbUhqeURtZ2JibWhJL21zNXZtdTZWY2RUQXdNMlRsaUtEbGo3ZmxwSVRua0lZaUxDSjBiSE1pT2lJaUxDSjBlWEJsSWpvaWJtOXVaU0lzSW5ZaU9pSXlJbjA9
+Log:
+  Level: none # Log level: none, error, warning, info, debug 
+  AccessPath: # /etc/XrayR/access.Log
+  ErrorPath: # /etc/XrayR/error.log
+DnsConfigPath: # /etc/XrayR/dns.json # Path to dns config, check https://xtls.github.io/config/base/dns/ for help
+RouteConfigPath: # /etc/XrayR/route.json # Path to route config, check https://xtls.github.io/config/base/route/ for help
+OutboundConfigPath: # /etc/XrayR/custom_outbound.json # Path to custom outbound config, check https://xtls.github.io/config/base/outbound/ for help
+ConnetionConfig:
+  Handshake: 4 # Handshake time limit, Second
+  ConnIdle: 30 # Connection idle time limit, Second
+  UplinkOnly: 2 # Time limit when the connection downstream is closed, Second
+  DownlinkOnly: 4 # Time limit when the connection is closed after the uplink is closed, Second
+  BufferSize: 64 # The internal cache size of each connection, kB 
+Nodes:
+  -
+    PanelType: "V2board" # Panel type: SSpanel, V2board, PMpanel, , Proxypanel
+    ApiConfig:
+      ApiHost: "https://xn--7ova.xn--l6qx3l9s1a.com"
+      ApiKey: "ftgyhucjgyjcyjfgjykt"
+      NodeID: id
+      NodeType: V2ray # Node type: V2ray, Shadowsocks, Trojan, Shadowsocks-Plugin
+      Timeout: 30 # Timeout for the api request
+      EnableVless: false # Enable Vless for V2ray Type
+      EnableXTLS: false # Enable XTLS for V2ray and Trojan
+      SpeedLimit: 0 # Mbps, Local settings will replace remote settings, 0 means disable
+      DeviceLimit: 2 # Local settings will replace remote settings, 0 means disable
+      RuleListPath:  /etc/XrayR/rulelist
+    ControllerConfig:
+      ListenIP: 0.0.0.0 # IP address you want to listen
+      SendIP: 0.0.0.0 # IP address you want to send pacakage
+      UpdatePeriodic: 60 # Time to update the nodeinfo, how many sec.
+      EnableDNS: false # Use custom DNS config, Please ensure that you set the dns.json well
+      DNSType: AsIs # AsIs, UseIP, UseIPv4, UseIPv6, DNS strategy
+      EnableProxyProtocol: false # Only works for WebSocket and TCP
+      EnableFallback: false # Only support for Trojan and Vless
+      FallBackConfigs:  # Support multiple fallbacks
+        -
+          SNI: # TLS SNI(Server Name Indication), Empty for any
+          Path: # HTTP PATH, Empty for any
+          Dest: 80 # Required, Destination of fallback, check https://xtls.github.io/config/fallback/ for details.
+          ProxyProtocolVer: 0 # Send PROXY protocol version, 0 for dsable
+      CertConfig:
+        CertMode: dns # Option about how to get certificate: none, file, http, dns. Choose "none" will forcedly disable the tls config.
+        CertDomain: "node1.test.com" # Domain to cert
+        CertFile: ./cert/node1.test.com.cert # Provided if the CertMode is file
+        KeyFile: ./cert/node1.test.com.key
+        Provider: alidns # DNS cert provider, Get the full support list here: https://go-acme.github.io/lego/dns/
+        Email: test@me.com
+        DNSEnv: # DNS ENV option used by DNS provider
+          ALICLOUD_ACCESS_KEY: aaa
+          ALICLOUD_SECRET_KEY: bbb
