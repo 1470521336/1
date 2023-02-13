@@ -3,7 +3,7 @@ async function operator(proxies = []) {
 
     const host = _.get($arguments, 'host') || 'dm.toutiao.com'
     const hostPrefix = _.get($arguments, 'hostPrefix')
-    const hostSuffix = _.get($arguments, 'hostSuffix') || '[头条]'
+    const hostSuffix = _.get($arguments, 'hostSuffix')
     // 注意我这里没改端口
     // 要改的话 是这样改 const port = _.get($arguments, 'port') || 80
     const port = _.get($arguments, 'port')
@@ -102,7 +102,7 @@ async function operator(proxies = []) {
         // 如果是 VMESS HTTP, 加个前缀标明
         // 一般用不到 想单独测 HTTP 的时候可能会用到
         if (network === 'http') {
-            _.set(p, 'name', `[HTTP]${p.name}`)
+            _.set(p, 'name', `HTTP${p.name}`)
         }
 
         // 一个排序的例子 港>日>台>新>韩
