@@ -102,7 +102,7 @@ async function operator(proxies = []) {
         // 如果是 VMESS HTTP, 加个前缀标明
         // 一般用不到 想单独测 HTTP 的时候可能会用到
         if (network === 'http') {
-            _.set(p, 'name', `|HTTP|${p.name}`)
+            _.set(p, 'name', `[HTTP]${p.name}`)
         }
 
         // 一个排序的例子 港>日>台>新>韩
